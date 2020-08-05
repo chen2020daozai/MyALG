@@ -1,4 +1,4 @@
-package com.zlj.java.alg;
+package com.zlj.java.alg.LeetCode;
 
 import java.util.HashMap;
 import java.util.Map;

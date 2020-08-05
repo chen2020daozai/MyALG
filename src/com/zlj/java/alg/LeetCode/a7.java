@@ -1,4 +1,4 @@
-package com.zlj.java.alg;
+package com.zlj.java.alg.LeetCode;
 
 /**
  * 整数翻转

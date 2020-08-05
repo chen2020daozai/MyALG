@@ -1,4 +1,4 @@
-package com.zlj.java.alg;
+package com.zlj.java.alg.LeetCode;
 
 import java.util.ArrayList;
 
@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * @Description TODO
  */
 
-public class a202 {
+public class a2_02 {
     public class ListNode {
         int val;
         ListNode next;
